@@ -1,3 +1,3 @@
-# ai-platform-notebook-instances-stopper
+# gce-instances-stopper
 
 
